@@ -21,6 +21,9 @@ O objetivo é manter uma padronização tipográfica em todo o projeto, facilita
 
 A fonte utilizada no projeto é a Poppins.
 
+<img width="942" height="639" alt="image" src="https://github.com/user-attachments/assets/7575449e-f501-41b0-95a9-e41f93c2f48f" />
+
+
 # 📋 Resumo
 <p>Categoria - Definição</p>
 <p>Fonte	--  Poppins</p>
