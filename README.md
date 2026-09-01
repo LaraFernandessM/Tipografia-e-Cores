@@ -21,8 +21,6 @@ O objetivo é manter uma padronização tipográfica em todo o projeto, facilita
 
 A fonte utilizada no projeto é a Poppins.
 
-<img width="942" height="639" alt="image" src="https://github.com/user-attachments/assets/7575449e-f501-41b0-95a9-e41f93c2f48f" />
-
 
 # 📋 Resumo
 <p>Categoria - Definição</p>
@@ -32,3 +30,5 @@ A fonte utilizada no projeto é a Poppins.
 <p>Maior -- tamanho	40px</p>
 <p>Níveis de título -- H1, H2, H3, H4 e H5</p>
 <p>Objetivo -- Padronização e hierarquia visual</p>
+
+<img width="942" height="639" alt="image" src="https://github.com/user-attachments/assets/7575449e-f501-41b0-95a9-e41f93c2f48f" />
